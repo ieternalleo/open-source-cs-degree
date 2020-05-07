@@ -12,11 +12,11 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
-> [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61A](https://cs61a.org/sp20/)
 
 **Discrete Mathematics for Computer Science**
 
-> [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> [UC Berkeley CS70](hhttps://www.eecs70.org/)  
 > *or*  
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 > *or*  
@@ -26,7 +26,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [Stanford CS106B](http://web.stanford.edu/class/cs106b/lectures.shtml)  
 > *or*  
-> [UC Berkeley CS61B](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61B](https://cs61b.org)
 
 **Computer Architecture**
 
@@ -34,7 +34,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
 > *or*  
-> [UC Berkeley CS61C](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61C](https://cs61c.org)
 
 ### Term 2
 
@@ -54,7 +54,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Operating Systems**
 
-> [UC Berkeley CS162](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp)  
+> [UC Berkeley CS162](https://cs162.eecs.berkeley.edu)  
 > *or*  
 > [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 
